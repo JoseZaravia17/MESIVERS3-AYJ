@@ -35,7 +35,7 @@ const rubik = Rubik({
 
 export const metadata: Metadata = {
   title: "10 Razones por las que Te Amo",
-  description: "Un regalo para Ale, con cariño de José",
+  description: "Un regalo para Ale, con amor de José",
 };
 
 // Barra del navegador en Android del mismo rojo que la página
